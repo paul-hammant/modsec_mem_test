@@ -1,0 +1,5 @@
+.aider*
+cmake-build-debug/
+ModSecurity/
+test_modsec_load
+.idea/
